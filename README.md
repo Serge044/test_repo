@@ -1,11 +1,5 @@
 # test_repo
 
-## Added Sub title
+## Serge
 
-### Third sub title
-
-#### Sub number four
-
-Added some changes with "second_branch"
-My test repo on github
-This is my description for test repo on GitHub
+Just add some new text to the file in the evening of Tuesday.
